@@ -1,1 +1,3 @@
-# eliasthiele-github.io
+# eliasthiele.github.io
+
+My personal website.
